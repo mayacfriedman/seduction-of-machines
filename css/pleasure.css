@@ -1,0 +1,86 @@
+html, body {
+   cursor: url("../images/Pleasure_4.jpg"), auto;
+}
+
+.section {
+    margin: 5px;
+    text-align: left;
+    line-height: 40px;
+  }
+
+  .left {
+    width: 60%;
+    padding: 0px 0px 10px 15px; float: left;
+  }
+
+.right {
+    width: 10%
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.center {
+    width: 40%;
+    padding: 0px 30px 18px 170px; float: left;
+  }
+
+h1 {
+  font-family: 'Patua One', cursive;
+  margin: 0 0 .5em 0;
+  font-size: 115px;
+  line-height: 120px;
+  padding-bottom: 5px;
+  padding: 10px;
+  padding-top: 50px;
+  color: #F5A58B;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'PT Serif', serif;
+  margin: 0 0 .5em 0;
+  font-size: 40px;
+  line-height: 45px;
+  padding: 40px;
+  color: #000000;
+}
+
+h3 {
+  font-family: 'Fugaz One', cursive;
+  margin: 0 0 .5em 0;
+  font-size: 70px;
+  line-height: 80px;
+  padding: 0 50px 0 50px;
+  color: #6AF6EB;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Fugaz One', cursive;
+  margin: 0 0 .5em 0;
+  font-size: 40px;
+  line-height: 80px;
+  padding: 0 0 0 50px;
+  color: #6AF6EB;
+  text-align: center;
+}
+
+p1 {
+  font-family: 'PT Serif', serif;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: left;
+  color: #000000;
+  padding: 10px 0px 0px 0px;
+}
+
+
+p {
+  font-family: 'PT Serif', serif;
+  font-size: 35px;
+  line-height: 45px;
+  text-align: left;
+  color: #000000;
+  padding: 10px 200px 200px;
