@@ -115,6 +115,8 @@ h6{
   font-size:  30px;
   line-height: 10px;
   color: #000000;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 /* .p1 {
   font-family: 'PT Serif', serif;
